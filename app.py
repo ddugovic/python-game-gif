@@ -1,5 +1,5 @@
 from PIL import Image, ImageFont, ImageDraw
-from flask import Flask, send_file, request
+from flask import Flask, send_file
 from tempfile import TemporaryFile
 from multiprocessing import Pool
 from chess.pgn import read_game
@@ -11,6 +11,7 @@ import requests
 import argparse
 import cairosvg
 import imageio
+import time
 
 try:
     from StringIO import StringIO
