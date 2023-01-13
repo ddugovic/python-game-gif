@@ -1,5 +1,5 @@
 cairocffi==1.4.0
-CairoSVG==2.5.2
+CairoSVG==2.6.0
 Flask==2.2.2
 imageio==2.24.0
 python-chess==1.999
