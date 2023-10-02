@@ -1,6 +1,6 @@
 cairocffi==1.6.1
 CairoSVG==2.7.1
 Flask==2.3.3
-imageio==2.31.4
+imageio==2.31.5
 python-chess==1.999
 requests==2.31.0
